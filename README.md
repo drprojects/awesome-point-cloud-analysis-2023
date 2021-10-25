@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 39 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 56 papers]
 
 <h3> Keywords </h3>
 
@@ -881,6 +881,24 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_A_Closer_Look_at_Rotation-Invariant_Deep_Point_Cloud_Analysis_ICCV_2021_paper.pdf)] A Closer Look at Rotation-invariant Deep Point Cloud Analysis. [__`Analysis`__]
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf)] 3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds. [__`Visual Grounding`__]
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf)] Pyramid Point Cloud Transformer for Large-Scale Place Recognition.[[code](https://github.com/fpthink/PPT-Net)] [__`Recognition`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_LSG-CPD_Coherent_Point_Drift_With_Local_Surface_Geometry_for_Point_ICCV_2021_paper.pdf)] LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration.[[code](https://github.com/ChirikjianLab/LSG-CPD)] [__`Registration`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Nie_Differentiable_Convolution_Search_for_Point_Cloud_Processing_ICCV_2021_paper.pdf)] Differentiable Convolution Search for Point Cloud Processing. [__`Processing`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hahner_Fog_Simulation_on_Real_LiDAR_Point_Clouds_for_3D_Object_ICCV_2021_paper.pdf)] Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather.[[code](https://github.com/MartinHahner/LiDAR_fog_sim)] [__`Detection`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)] RFNet: Recurrent Forward Network for Dense Point Cloud Completion. [__`Completion`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.pdf)] PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers.[[code](https://github.com/yuxumin/PoinTr)] [__`Completion`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_PICCOLO_Point_Cloud-Centric_Omnidirectional_Localization_ICCV_2021_paper.pdf)] PICCOLO: Point Cloud-Centric Omnidirectional Localization. [__`Localization`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Luo_PU-EVA_An_Edge-Vector_Based_Approximation_Solution_for_Flexible-Scale_Point_Cloud_ICCV_2021_paper.pdf)] PU-EVA: An Edge-Vector based Approximation Solution for Flexible-scale Point Cloud Upsampling. [__`Upsampling`__]
+- [[ICCV](hhttps://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_A_Backdoor_Attack_Against_3D_Point_Cloud_Classifiers_ICCV_2021_paper.pdf)] A Backdoor Attack Against 3D Point Cloud Classifiers.[[code](https://github.com/zhenxianglance/pcba)] [__`Classification`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Vis2Mesh_Efficient_Mesh_Reconstruction_From_Unstructured_Point_Clouds_of_Large_ICCV_2021_paper.pdf)] Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility.[[code](https://github.com/GDAOSU/vis2mesh)] [__`Reconstruction`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.pdf)] 3D Shape Generation and Completion through Point-Voxel Diffusion.[[code](https://alexzhou907.github.io/pvd)] [__`Completion`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Unsupervised_Learning_of_Fine_Structure_Generation_for_3D_Point_Clouds_ICCV_2021_paper.pdf)] Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projections Matching.[[code](https://github.com/chenchao15/2d_projection_matching)] [__`Generation`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_OMNet_Learning_Overlapping_Mask_for_Partial-to-Partial_Point_Cloud_Registration_ICCV_2021_paper.pdf)] OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration.[[code](https://github.com/megvii-research/OMNet)] [__`Registration`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Mazur_Cloud_Transformers_A_Universal_Approach_to_Point_Cloud_Processing_Tasks_ICCV_2021_paper.pdf)] Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks. [__`Transformer`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.pdf)] Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds.[[code](https://github.com/Ghostish/BAT)] [__`Tracking`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_DeepPRO_Deep_Partial_Point_Cloud_Registration_of_Objects_ICCV_2021_paper.pdf)] DeepPRO: Deep Partial Point Cloud Registration of Objects. [__`Registration`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_Walk_in_the_Cloud_Learning_Curves_for_Point_Clouds_Shape_ICCV_2021_paper.pdf)] Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis.[[code](https://curvenet.github.io/)] [__`Curves`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)] Feature Interactive Representation for Point Cloud Registration.[[code](https://github.com/Ghostish/BAT)] [__`Tracking`__]
+
 
 
 
