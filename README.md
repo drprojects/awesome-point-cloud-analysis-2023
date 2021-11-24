@@ -17,7 +17,7 @@ I will try to update this list everyday!!!
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
-- [2021](#2021) [CVPR: 66 papers; ICCV: 56 papers]
+- [2021](#2021) [CVPR: 66 papers; ICCV: 75 papers]
 
 <h3> Keywords </h3>
 
