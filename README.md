@@ -576,7 +576,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Sequential Forecasting of 100,000 Points. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08284.pdf)] Toronto-3D: A Large-scale Mobile LiDAR Dataset for Semantic Segmentation of Urban Roadways. [[code](https://github.com/WeikaiTan/Toronto-3D)][__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.12641.pdf)] Self-Supervised Learning for Domain Adaptation on Point-Clouds.[[code](https://github.com/IdanAchituve/DefRec_and_PCM)] [__`oth.`__]
-- [[arXiv](https://arxiv.org/pdf/2003.12841.pdf)] A Benchmark for Point Clouds Registration Algorithms. [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark)][__`seg.`__]
+- [[arXiv](https://arxiv.org/pdf/2003.12841.pdf)] A Benchmark for Point Clouds Registration Algorithms. [[code](https://github.com/iralabdisco/point_clouds_registration_benchmark)][__`reg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.12622.pdf)] SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans.[[code](https://github.com/skanti/SceneCAD)] [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.12181.pdf)] ParSeNet: A Parametric Surface Fitting Network for 3D Point Clouds. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.08376.pdf)] Unsupervised Sequence Forecasting of 100,000 Points for Unsupervised Trajectory Forecasting. [[pytorch](https://github.com/xinshuoweng/SPCSF)][__`oth.`__]
