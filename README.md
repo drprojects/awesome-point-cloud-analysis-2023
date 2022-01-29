@@ -18,6 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 75 papers]
+- [2022](#2022) [CVPR: Coming soon!]
 
 <h3> Keywords </h3>
 
@@ -918,7 +919,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](openaccess.thecvf.com/content/ICCV2021/papers/Zou_Geometry-Aware_Self-Training_for_Unsupervised_Domain_Adaptation_on_Object_Point_Clouds_ICCV_2021_paper.pdf)] Geometry-Aware Self-Training for Unsupervised Domain Adaptation on Object Point Clouds. [[code](https://github.com/zou-longkun/GAST)] [__`Domain Adaptation`__]
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Progressive_Seed_Generation_Auto-Encoder_for_Unsupervised_Point_Cloud_Learning_ICCV_2021_paper.pdf)] Progressive Seed Generation Auto-Encoder for Unsupervised Point Cloud Learning.[__`Encoder`__]
 
-
+---
+## 2022
+- Coming soon!
 
 
 ```diff
