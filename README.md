@@ -921,7 +921,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2022
-- Coming soon!
+- [[arXiv](https://arxiv.org/abs/2201.12769)] MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds. [__`Segmentation.`__]
+- [[arXiv](arxiv.org/abs/2201.12733)] TPC: Transformation-Specific Smoothing for Point Cloud Models. [__`Classification.`__]
 
 
 ```diff
