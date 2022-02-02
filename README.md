@@ -775,7 +775,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICLR](https://openreview.net/pdf?id=rABUmU3ulQh)] Learning to Generate 3D Shapes with Generative Cellular Automata. [__`Generation`__]
 -
 - [[TOG](https://arxiv.org/abs/2011.01630)] PCEDNet : A Lightweight Neural Network for Fast and Interactive Edge Detection in 3D Point Clouds [__`Edge Detection.`__]
--
+- 
+- [[CoRL](https://arxiv.org/abs/2110.04076)] Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks. [[code](github.com/PRBonn/point-cloud-prediction)] [__`Prediction.`__]
 - 
 - [[CVPR](https://arxiv.org/pdf/2103.01458v1.pdf)] Diffusion Probabilistic Models for 3D Point Cloud Generation. [[code](https://github.com/luost26/diffusion-point-cloud)][__`Generation`__]
 - [[CVPR](https://arxiv.org/pdf/2011.13005.pdf)] PREDATOR: Registration of 3D Point Clouds with Low Overlap. [[pytorch](https://github.com/ShengyuH/OverlapPredator)][__`Registration`__]
