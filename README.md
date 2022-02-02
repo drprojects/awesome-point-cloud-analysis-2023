@@ -922,7 +922,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2022
 - [[arXiv](https://arxiv.org/abs/2201.12769)] MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds. [__`Segmentation.`__]
-- [[arXiv](arxiv.org/abs/2201.12733)] TPC: Transformation-Specific Smoothing for Point Cloud Models. [__`Classification.`__]
+- [[arXiv](https://arxiv.org/abs/2201.12733)] TPC: Transformation-Specific Smoothing for Point Cloud Models. [__`Classification.`__]
+- [[arXiv](https://arxiv.org/abs/2201.12296)] Benchmarking Robustness of 3D Point Cloud Recognition Against Common Corruptions. [[code](https://github.com/jiachens/ModelNet40-C)] [__`Classification.`__]
+- [[arXiv](https://arxiv.org/abs/2201.11388)] Contrastive Embedding Distribution Refinement and Entropy-Aware Attention for 3D Point Cloud Classification. [[code](https://github.com/YangFengSEU/CEDR)] [__`Classification.`__]
+- [[arXiv](https://arxiv.org/abs/2201.12094)] Neighborhood-aware Geometric Encoding Network for Point Cloud Registration. [[code](https://github.com/zhulf0804/NgeNet)] [__`Registration.`__]
 
 
 ```diff
