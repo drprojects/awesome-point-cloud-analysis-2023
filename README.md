@@ -928,7 +928,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2201.11388)] Contrastive Embedding Distribution Refinement and Entropy-Aware Attention for 3D Point Cloud Classification. [[code](https://github.com/YangFengSEU/CEDR)] [__`Classification.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12094)] Neighborhood-aware Geometric Encoding Network for Point Cloud Registration. [[code](https://github.com/zhulf0804/NgeNet)] [__`Registration.`__]
 - [[arXiv](https://arxiv.org/abs/2202.03377)] Benchmarking and Analyzing Point Cloud Classification under Corruptions. [[code](https://github.com/jiawei-ren/ModelNet-C)] [__`Classification.`__]
-
+- [[arXiv](https://arxiv.org/abs/2202.06688)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [__`Registration.`__]
+- [[arXiv](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Contexts Model for Point Cloud Compression. [[code](https://github.com/zb12138/OctAttention)] [__`Compression.`__]
 
 
 ```diff
