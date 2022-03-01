@@ -933,6 +933,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Contexts Model for Point Cloud Compression. [[code](https://github.com/zb12138/OctAttention)] [__`Compression.`__]
 -
 - [[ICLR](https://arxiv.org/abs/2202.07123)] Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework. [[code](https://github.com/ma-xu/pointMLP-pytorch)] [__`Classification`__]
+-
+- [[AAAI](https://arxiv.org/abs/2201.01976)] SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection. [[code](https://github.com/blakechen97/SASA)] [__`Detection`__]
 
 ```diff
 - Datasets
