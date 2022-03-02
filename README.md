@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: Coming soon!]
+- [2022](#2022) [CVPR: 2 papers]
 
 <h3> Keywords </h3>
 
@@ -935,6 +935,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICLR](https://arxiv.org/abs/2202.07123)] Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework. [[code](https://github.com/ma-xu/pointMLP-pytorch)] [__`Classification`__]
 -
 - [[AAAI](https://arxiv.org/abs/2201.01976)] SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection. [[code](https://github.com/blakechen97/SASA)] [__`Detection`__]
+- 
+- [[CVPR](https://arxiv.org/abs/2112.02413)] PointCLIP: Point Cloud Understanding by CLIP. [[code](https://github.com/ZrrSkywalker/PointCLIP)] [__`Understanding`__]
+- [[CVPR](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)] Point-NeRF: Point-based Neural Radiance Fields. [[code](https://github.com/Xharlie/pointnerf)] [__`Reconstruction`__]
+
+
+
+
 
 ```diff
 - Datasets
