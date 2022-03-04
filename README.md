@@ -941,7 +941,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.01509v1.pdf)] SoftGroup for 3D Instance Segmentation on Point Clouds. [[code](https://github.com/thangvubk/SoftGroup)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/pdf/2203.01730v1.pdf)] Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds. [[code](https://github.com/Ghostish/Open3DSOT)] [__`Tracking`__]
 - [[CVPR](https://arxiv.org/pdf/2112.09329.pdf)] Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders. [__`Fitting`__]
-
+- [[CVPR](https://arxiv.org/abs/2203.00680)] CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. [[code](https://github.com/MohamedAfham/CrossPoint)] [__`Understanding`__]
 
 
 
