@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 8 papers]
+- [2022](#2022) [CVPR: 10 papers]
 
 <h3> Keywords </h3>
 
@@ -944,7 +944,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2203.00680)] CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding. [[code](https://github.com/MohamedAfham/CrossPoint)] [__`Understanding`__]
 - [[CVPR](https://arxiv.org/abs/2203.03888)] ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation. [[code](https://github.com/robinwang1/ART-Point)] [__`Rotation`__]
 - [[CVPR](https://arxiv.org/abs/2203.04041)] Shape-invariant 3D Adversarial Point Clouds. [[code](https://github.com/shikiw/SI-Adv)] [__`Adversarial`__]
-
+- [[CVPR](https://arxiv.org/pdf/2203.05238v1.pdf)] Back To Reality: Weak-supervised 3D Object Detection with Shape-guided Label Enhancement. [[code](https://github.com/xuxw98/BackToReality)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2203.05272v1.pdf)] Contrastive Boundary Learning for Point Cloud Segmentation. [[code](https://github.com/LiyaoTang/contrastBoundary)] [__`Segmentation`__]
 
 
 ```diff
