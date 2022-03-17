@@ -948,6 +948,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.05272v1.pdf)] Contrastive Boundary Learning for Point Cloud Segmentation. [[code](https://github.com/LiyaoTang/contrastBoundary)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/pdf/2203.05662v1.pdf)] Point Density-Aware Voxels for LiDAR 3D Object Detection. [[code](https://github.com/TRAILab/PDV)] [__`Detection`__]
 - [[CVPR](https://arxiv.org/abs/2203.06558)] AutoGPart: Intermediate Supervision Search for Generalizable 3D Part Segmentation. [__`Segmentation`__]
+- [[CVPR](https://arxiv.org/pdf/2203.08195v1.pdf)] DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection. [[code](https://github.com/tensorflow/lingvo/tree/master/lingvo)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2203.08537v1.pdf)] Scribble-Supervised LiDAR Semantic Segmentation. [[code](https://github.com/ouenal/scribblekitti)] [__`Segmentation`__]
+
+
 
 
 ```diff
