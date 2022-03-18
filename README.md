@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 12 papers]
+- [2022](#2022) [CVPR: 15 papers]
 
 <h3> Keywords </h3>
 
@@ -950,7 +950,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2203.06558)] AutoGPart: Intermediate Supervision Search for Generalizable 3D Part Segmentation. [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/pdf/2203.08195v1.pdf)] DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection. [[code](https://github.com/tensorflow/lingvo/tree/master/lingvo)] [__`Detection`__]
 - [[CVPR](https://arxiv.org/pdf/2203.08537v1.pdf)] Scribble-Supervised LiDAR Semantic Segmentation. [[code](https://github.com/ouenal/scribblekitti)] [__`Segmentation`__]
-
+- [[CVPR](https://arxiv.org/abs/2111.14819)] Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling. [[code](https://github.com/lulutang0608/Point-BERT)] [__`BERT`__]
 
 
 
