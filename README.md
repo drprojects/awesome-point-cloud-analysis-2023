@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 15 papers]
+- [2022](#2022) [CVPR: 17 papers]
 
 <h3> Keywords </h3>
 
@@ -951,6 +951,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.08195v1.pdf)] DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection. [[code](https://github.com/tensorflow/lingvo/tree/master/lingvo)] [__`Detection`__]
 - [[CVPR](https://arxiv.org/pdf/2203.08537v1.pdf)] Scribble-Supervised LiDAR Semantic Segmentation. [[code](https://github.com/ouenal/scribblekitti)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/abs/2111.14819)] Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling. [[code](https://github.com/lulutang0608/Point-BERT)] [__`BERT`__]
+- [[CVPR](https://arxiv.org/pdf/2203.11139v1.pdf)] Not All Points Are Equal: Learning Highly Efficient Point-based Detectorsfor 3D LiDAR Point Clouds. [[code](https://github.com/yifanzhang713/IA-SSD)] [__`Detection`__]
+- [[CVPR](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf)] Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds. [[code](https://github.com/skyhehe123/VoxSeT)] [__`Detection`__]
 
 
 
