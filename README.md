@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 19 papers]
+- [2022](#2022) [CVPR: 21 papers]
 
 <h3> Keywords </h3>
 
@@ -955,7 +955,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://www4.comp.polyu.edu.hk/~cslzhang/paper/VoxSeT_cvpr22.pdf)] Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds. [[code](https://github.com/skyhehe123/VoxSeT)] [__`Detection`__]
 - [[CVPR](https://arxiv.org/pdf/2203.11496v1.pdf)] TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers. [[code](https://github.com/XuyangBai/TransFusion/)] [__`Detection`__]
 - [[CVPR](https://arxiv.org/pdf/2203.11590v1.pdf)] IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment. [[code](https://github.com/ZENGYIMING-EAMON/IDEA-Net)] [__`Interpolation`__]
-
+- [[CVPR](https://arxiv.org/pdf/2203.13090v1.pdf)] AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception. [[code](https://github.com/hustvl/AziNorm)] [__`Symmetry`__]
+- [[CVPR](https://arxiv.org/pdf/2203.12917v1.pdf)] WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation. [[code](https://github.com/yztang4/WarpingGAN)] [__`Generation`__]
 
 
 
