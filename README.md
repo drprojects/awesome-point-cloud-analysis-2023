@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 21 papers]
+- [2022](#2022) [CVPR: 22 papers]
 
 <h3> Keywords </h3>
 
@@ -957,7 +957,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.11590v1.pdf)] IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment. [[code](https://github.com/ZENGYIMING-EAMON/IDEA-Net)] [__`Interpolation`__]
 - [[CVPR](https://arxiv.org/pdf/2203.13090v1.pdf)] AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception. [[code](https://github.com/hustvl/AziNorm)] [__`Symmetry`__]
 - [[CVPR](https://arxiv.org/pdf/2203.12917v1.pdf)] WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation. [[code](https://github.com/yztang4/WarpingGAN)] [__`Generation`__]
-
+- [[CVPR](https://arxiv.org/pdf/2203.13394v1.pdf)] Point2Seq: Detecting 3D Objects as Sequences. [[code](https://github.com/ocNflag/point2seq)] [__`Detection`__]
 
 
 ```diff
