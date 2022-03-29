@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 22 papers]
+- [2022](#2022) [CVPR: 26 papers (24 with code)]
 
 <h3> Keywords </h3>
 
@@ -958,6 +958,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.13090v1.pdf)] AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception. [[code](https://github.com/hustvl/AziNorm)] [__`Symmetry`__]
 - [[CVPR](https://arxiv.org/pdf/2203.12917v1.pdf)] WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation. [[code](https://github.com/yztang4/WarpingGAN)] [__`Generation`__]
 - [[CVPR](https://arxiv.org/pdf/2203.13394v1.pdf)] Point2Seq: Detecting 3D Objects as Sequences. [[code](https://github.com/ocNflag/point2seq)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2203.14517v1.pdf)] REGTR: End-to-end Point Cloud Correspondences with Transformers. [[code](https://github.com/yewzijian/RegTR)] [__`Registration`__]
+- [[CVPR](https://arxiv.org/pdf/2203.14508v1.pdf)] Stratified Transformer for 3D Point Cloud Segmentation. [[code](https://github.com/dvlab-research/Stratified-Transformer)] [__`Segmentation`__]
+- [[CVPR](https://arxiv.org/pdf/2203.14486v1.pdf)] Equivariant Point Cloud Analysis via Learning Orientations for Message Passing. [[code](https://github.com/luost26/Equivariant-OrientedMP)] [__`Classification`__]
+- [[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [__`Registration`__]
+
+
 
 
 ```diff
