@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 26 papers (24 with code)]
+- [2022](#2022) [CVPR: 29 papers (26 with code)]
 
 <h3> Keywords </h3>
 
@@ -962,7 +962,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.14508v1.pdf)] Stratified Transformer for 3D Point Cloud Segmentation. [[code](https://github.com/dvlab-research/Stratified-Transformer)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/pdf/2203.14486v1.pdf)] Equivariant Point Cloud Analysis via Learning Orientations for Message Passing. [[code](https://github.com/luost26/Equivariant-OrientedMP)] [__`Classification`__]
 - [[CVPR](https://arxiv.org/pdf/2203.14453v1.pdf)] SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. [[code](https://github.com/ZhiChen902/SC2-PCR)] [__`Registration`__]
-
+- [[CVPR](https://arxiv.org/pdf/2203.15118v1.pdf)] LiDAR Snowfall Simulation for Robust 3D Object Detection. [[code](https://github.com/SysCV/LiDAR_snow_sim)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2203.15580v1.pdf)] Learning a Structured Latent Space for Unsupervised Point Cloud Completion. [__`Completion`__]
+- [[CVPR](https://arxiv.org/pdf/2203.15125v1.pdf)] Text2Pos: Text-to-Point-Cloud Cross-Modal Localization. [[code](https://text2pos.github.io/)] [__`Localization`__]
 
 
 
