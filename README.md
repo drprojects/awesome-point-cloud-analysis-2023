@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 29 papers (26 with code)]
+- [2022](#2022) [CVPR: 33 papers (28 with code)]
 
 <h3> Keywords </h3>
 
@@ -965,6 +965,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.15118v1.pdf)] LiDAR Snowfall Simulation for Robust 3D Object Detection. [[code](https://github.com/SysCV/LiDAR_snow_sim)] [__`Detection`__]
 - [[CVPR](https://arxiv.org/pdf/2203.15580v1.pdf)] Learning a Structured Latent Space for Unsupervised Point Cloud Completion. [__`Completion`__]
 - [[CVPR](https://arxiv.org/pdf/2203.15125v1.pdf)] Text2Pos: Text-to-Point-Cloud Cross-Modal Localization. [[code](https://text2pos.github.io/)] [__`Localization`__]
+- [[CVPR](https://arxiv.org/pdf/2203.09931.pdf)] 3DAC: Learning Attribute Compression for Point Clouds. [__`Compression`__]
+- [[CVPR](https://arxiv.org/pdf/2203.11113.pdf)] No Pain, Big Gain: Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces. [[code](https://github.com/jx-zhong-for-academic-purpose/Kinet)] [__`Flow`__]
+- [[CVPR](https://arxiv.org/pdf/2204.00325v1.pdf)] CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection. [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2203.16895v1.pdf)] Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds. [[code](https://github.com/leolyj/DCA-SRSFE)] [__`Flow`__]
+
+
 
 
 
