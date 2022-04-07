@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 35 papers (30 with code)]
+- [2022](#2022) [CVPR: 36 papers (31 with code)]
 
 <h3> Keywords </h3>
 
@@ -972,6 +972,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2203.16895v1.pdf)] Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds. [[code](https://github.com/leolyj/DCA-SRSFE)] [__`Flow`__]
 - [[CVPR](https://arxiv.org/pdf/2204.02174v1.pdf)] Multi-View Transformer for 3D Visual Grounding. [[code](https://github.com/sega-hsj/MVT-3DVG)] [__`Grounding`__]
 - [[CVPR](https://arxiv.org/pdf/2203.15882v1.pdf)] Learning to Detect Mobile Objects from LiDAR Scans Without Labels. [[code](https://github.com/YurongYou/MODEST)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2204.02251.pdf)] RBGNet: Ray-based Grouping for 3D Object Detection. [[code](https://github.com/Haiyang-W/RBGNet)] [__`Detection`__]
 
 
 
