@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 34 papers (29 with code)]
+- [2022](#2022) [CVPR: 35 papers (30 with code)]
 
 <h3> Keywords </h3>
 
@@ -923,7 +923,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2022
-- [[ICLR](https://arxiv.org/abs/2111.11704)] Deep Point Cloud Reconstruction. [__`Reconstruction.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12769)] MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds. [__`Segmentation.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12733)] TPC: Transformation-Specific Smoothing for Point Cloud Models. [__`Classification.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12296)] Benchmarking Robustness of 3D Point Cloud Recognition Against Common Corruptions. [[code](https://github.com/jiachens/ModelNet40-C)] [__`Classification.`__]
@@ -934,6 +933,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Contexts Model for Point Cloud Compression. [[code](https://github.com/zb12138/OctAttention)] [__`Compression.`__]
 -
 - [[ICLR](https://arxiv.org/abs/2202.07123)] Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework. [[code](https://github.com/ma-xu/pointMLP-pytorch)] [__`Classification`__]
+- [[ICLR](https://arxiv.org/abs/2111.11704)] Deep Point Cloud Reconstruction. [__`Reconstruction.`__]
 -
 - [[AAAI](https://arxiv.org/abs/2201.01976)] SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection. [[code](https://github.com/blakechen97/SASA)] [__`Detection`__]
 - 
@@ -971,7 +971,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2204.00325v1.pdf)] CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection. [__`Detection`__]
 - [[CVPR](https://arxiv.org/pdf/2203.16895v1.pdf)] Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds. [[code](https://github.com/leolyj/DCA-SRSFE)] [__`Flow`__]
 - [[CVPR](https://arxiv.org/pdf/2204.02174v1.pdf)] Multi-View Transformer for 3D Visual Grounding. [[code](https://github.com/sega-hsj/MVT-3DVG)] [__`Grounding`__]
-
+- [[CVPR](https://arxiv.org/pdf/2203.15882v1.pdf)] Learning to Detect Mobile Objects from LiDAR Scans Without Labels. [[code](https://github.com/YurongYou/MODEST)] [__`Detection`__]
 
 
 
