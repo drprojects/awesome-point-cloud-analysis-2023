@@ -923,6 +923,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 ---
 ## 2022
+- [[ICLR](https://arxiv.org/abs/2111.11704)] Deep Point Cloud Reconstruction. [__`Reconstruction.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12769)] MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds. [__`Segmentation.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12733)] TPC: Transformation-Specific Smoothing for Point Cloud Models. [__`Classification.`__]
 - [[arXiv](https://arxiv.org/abs/2201.12296)] Benchmarking Robustness of 3D Point Cloud Recognition Against Common Corruptions. [[code](https://github.com/jiachens/ModelNet40-C)] [__`Classification.`__]
