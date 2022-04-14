@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 38 papers (32 with code)]
+- [2022](#2022) [CVPR: 39 papers (33 with code)]
 
 <h3> Keywords </h3>
 
@@ -975,7 +975,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2204.02251.pdf)] RBGNet: Ray-based Grouping for 3D Object Detection. [[code](https://github.com/Haiyang-W/RBGNet)] [__`Detection`__]
 - [[CVPR](https://fengxianghe.github.io/paper/wang2022bridged.pdf)] Bridged Transformer for Vision and Point Cloud 3D Object Detection. [__`Detection`__]
 - [[CVPR oral](https://arxiv.org/pdf/2204.06272v1.pdf)] 3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection. [[code](https://github.com/fjhzhixi/3D-SPS)] [__`Visual Grounding`__]
-
+- [[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [__`Registration`__]
 
 
 
