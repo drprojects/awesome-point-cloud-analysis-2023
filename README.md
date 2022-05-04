@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 41 papers (35 with code)]
+- [2022](#2022) [CVPR: 44 papers (38 with code)]
 
 <h3> Keywords </h3>
 
@@ -978,6 +978,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2202.06688.pdf)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [__`Registration`__]
 - [[CVPR](https://arxiv.org/pdf/2112.02857.pdf)] PTTR: Relational 3D Point Cloud Object Tracking with Transformer. [[code](https://github.com/Jasonkks/PTTR)] [__`Tracking`__]
 - [[CVPR](https://kovenyu.com/eon/static/yu2022eon.pdf)] Rotationally Equivariant 3D Object Detection. [[code](https://kovenyu.com/eon/)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/pdf/2204.12667v1.pdf)] MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation. [[code](https://www.nec-labs.com/~mas/MM-TTA/)] [__`Segmentation`__]
+- [[CVPR](https://arxiv.org/pdf/2204.12684v1.pdf)] Density-preserving Deep Point Cloud Compression. [[code](https://github.com/yunhe20/D-PCC)] [__`Compression`__]
+- [[CVPR](https://arxiv.org/pdf/2204.05687.pdf)] 3DeformRS: Certifying Spatial Deformations on Point Clouds. [[code](https://github.com/gaperezsa/3DeformRS)] [__`Deformations`__]
+
 
 ```diff
 - Datasets
