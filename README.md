@@ -769,7 +769,6 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2102.08945)] Weakly Supervised Learning of Rigid 3D Scene Flow. [[pytorch](https://github.com/zgojcic/Rigid3DSceneFlow)] [__`Scene Flow.`__]
 - [[arXiv](https://arxiv.org/abs/2102.10788)] Attention Models for Point Clouds in Deep Learning: A Survey. [__`Survey.`__]
 - [[arXiv](https://arxiv.org/abs/2102.13391)] Point Cloud Upsampling and Normal Estimation using Deep Learning for Robust Surface Reconstruction. [__`Upsampling.`____`Reconstruction.`__]
-- [[arXiv](https://arxiv.org/abs/2104.11896)] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers. [__`Detection.`__]
 - 
 - [[ICLR](https://openreview.net/pdf?id=O3bqkf_Puys)] PSTNet: Point Spatio-Temporal Convolution on Point Cloud Sequences. [__`Sequences`__]
 - [[ICLR](https://openreview.net/pdf?id=rABUmU3ulQh)] Learning to Generate 3D Shapes with Generative Cellular Automata. [__`Generation`__]
@@ -932,6 +931,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/2202.06688)] Geometric Transformer for Fast and Robust Point Cloud Registration. [[code](https://github.com/qinzheng93/GeoTransformer)] [__`Registration.`__]
 - [[arXiv](https://arxiv.org/abs/2202.06028)] OctAttention: Octree-based Large-scale Contexts Model for Point Cloud Compression. [[code](https://github.com/zb12138/OctAttention)] [__`Compression.`__]
 -
+- [[WACV](https://arxiv.org/abs/2104.11896)] M3DeTR: Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers. [[code](https://github.com/rayguan97/M3DETR)] [__`Detection.`__]
+-
 - [[ICLR](https://arxiv.org/abs/2202.07123)] Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework. [[code](https://github.com/ma-xu/pointMLP-pytorch)] [__`Classification`__]
 - [[ICLR](https://arxiv.org/abs/2111.11704)] Deep Point Cloud Reconstruction. [__`Reconstruction.`__]
 -
@@ -984,7 +985,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://arxiv.org/pdf/2205.05740v1.pdf)] Surface Representation for Point Clouds. [[code](https://github.com/hancyran/RepSurf)] [__`Representation`__]
 - [[CVPR](https://arxiv.org/pdf/2205.13490v1.pdf)] SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation. [[code](https://github.com/wangzy22/SemAffiNet)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/abs/2205.11028)] RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds. [[code](https://github.com/gxd1994/RCP)] [__`Flow`__]
-
+- [[CVPRW](https://openaccess.thecvf.com/content/CVPR2022W/WAD/html/Wang_PointMotionNet_Point-Wise_Motion_Learning_for_Large-Scale_LiDAR_Point_Clouds_Sequences_CVPRW_2022_paper.html)] PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences [__`oth.`__]
 
 
 ```diff
