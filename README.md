@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 47 papers (41 with code)]
+- [2022](#2022) [CVPR: 58 papers (49 with code)]
 
 <h3> Keywords </h3>
 
@@ -984,6 +984,20 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://arxiv.org/pdf/2205.05740v1.pdf)] Surface Representation for Point Clouds. [[code](https://github.com/hancyran/RepSurf)] [__`Representation`__]
 - [[CVPR](https://arxiv.org/pdf/2205.13490v1.pdf)] SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation. [[code](https://github.com/wangzy22/SemAffiNet)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/abs/2205.11028)] RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds. [[code](https://github.com/gxd1994/RCP)] [__`Flow`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_3DJCG_A_Unified_Framework_for_Joint_Dense_Captioning_and_Visual_CVPR_2022_paper.pdf)] 3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds. [__`Grounding`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Multi-Instance_Point_Cloud_Registration_by_Efficient_Correspondence_Clustering_CVPR_2022_paper.pdf)] Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [[code](https://github.com/SJTU-ViSYS/multi-instant-reg)] [__`Registration`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Lepard_Learning_Partial_Point_Cloud_Matching_in_Rigid_and_Deformable_CVPR_2022_paper.pdf)] Lepard: Learning partial point cloud matching in rigid and deformable scenes. [[code](https://github.com/rabbityl/lepard)] [__`Matching`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Robust_Structured_Declarative_Classifiers_for_3D_Point_Clouds_Defending_Adversarial_CVPR_2022_paper.pdf)] Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks With Implicit Gradients. [[code](https://zhang-vislab.github.io/)] [__`Attack`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Neural_Points_Point_Cloud_Representation_With_Neural_Fields_for_Arbitrary_CVPR_2022_paper.pdf)] Neural Points: Point Cloud Representation With Neural Fields for Arbitrary Upsampling. [[code](https://github.com/WanquanF/NeuralPoints)] [__`Upsampling`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.pdf)] Point Cloud Pre-training with Natural 3D Structures. [[code](https://ryosuke-yamada.github.io/PointCloud-FractalDataBase/)] [__`Pre-training`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_A_Unified_Query-Based_Paradigm_for_Point_Cloud_Understanding_CVPR_2022_paper.pdf)] A Unified Query-based Paradigm for Point Cloud Understanding. [__`Understanding`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Surface_Reconstruction_From_Point_Clouds_by_Learning_Predictive_Context_Priors_CVPR_2022_paper.pdf)] Surface Reconstruction From Point Clouds by Learning Predictive Context Priors. [[code](https://github.com/mabaorui/PredictableContextPrior)] [__`Reconstruction`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_RigidFlow_Self-Supervised_Scene_Flow_Learning_on_Point_Clouds_by_Local_CVPR_2022_paper.pdf)] RigidFlow: Self-Supervised Scene Flow Learning on Point Clouds by Local Rigidity Prior. [__`Flow`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)] Deterministic Point Cloud Registration via Novel Transformation Decomposition. [__`Registration`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Lehner_3D-VField_Adversarial_Augmentation_of_Point_Clouds_for_Domain_Generalization_in_CVPR_2022_paper.pdf)] 3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection. [[code](https://crashd-cars.github.io/)] [__`Detection`__]
+
+
+
 
 
 
