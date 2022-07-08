@@ -16,9 +16,9 @@ I will try to update this list everyday!!!
 - [2017](#2017)
 - [2018](#2018)
 - [2019](#2019)
-- [2020](#2020) [CVPR: 70 papers; ECCV: 39 papers]
+- [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 47 papers (41 with code)]
+- [2022](#2022) [CVPR: 58 papers (49 with code)]
 
 <h3> Keywords </h3>
 
@@ -67,8 +67,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[3DV](http://segcloud.stanford.edu/segcloud_2017.pdf)] SEGCloud: Semantic Segmentation of 3D Point Clouds. [[project](http://segcloud.stanford.edu/)] [__`seg.`__ __`aut.`__] :star:	
 -	
 - [[TPAMI](https://ieeexplore.ieee.org/ielx7/34/8454009/08046026.pdf?tp=&arnumber=8046026&isnumber=8454009&ref=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8=)] Structure-aware Data Consolidation. [__`oth.`__]	
+- [[ICCV](https://ieeexplore.ieee.org/document/8237364)] Local-to-Global Point Cloud Registration Using a Dictionary of Viewpoint Descriptors. [__`reg.`__]
+- [[ICCV](https://ieeexplore.ieee.org/document/8237553)] Point Set Registration with Global-Local Correspondence and Transformation Estimation. [__`reg.`__]
+- [[AAAI](http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14188)] Non-Rigid Point Set Registration with Robust Transformation Estimation under Manifold Regularization. [__`reg.`__]
 
----	
+---
 ## 2018	
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_SPLATNet_Sparse_Lattice_CVPR_2018_paper.pdf)] SPLATNet: Sparse Lattice Networks for Point Cloud Processing. [[caffe](https://github.com/NVlabs/splatnet)] [__`seg.`__] :fire:	
 - [[CVPR](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xie_Attentional_ShapeContextNet_for_CVPR_2018_paper.pdf)] Attentional ShapeContextNet for Point Cloud Recognition. [__`cls.`__ __`seg.`__]	
@@ -201,7 +204,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/abs/1810.05591)] PointGrow: Autoregressively Learned Point Cloud Generation with Self-Attention. [[project](https://liuziwei7.github.io/projects/PointGrow)] [__`oth.`__]	
 - [[arXiv](https://arxiv.org/pdf/1810.05795.pdf)] Point Cloud GAN. [[pytorch](https://github.com/chunliangli/Point-Cloud-GAN)] [__`oth.`__]
 
----	
+---
 ## 2019
 - [[CVPR](http://export.arxiv.org/abs/1904.07601)] Relation-Shape Convolutional Neural Network for Point Cloud Analysis. [[pytorch](https://github.com/Yochengliu/Relation-Shape-CNN)] [__`cls.`__ __`seg.`__ __`oth.`__] :fire:
 - [[CVPR](https://raoyongming.github.io/files/SFCNN.pdf)] Spherical Fractal Convolutional Neural Networks for Point Cloud Recognition. [__`cls.`__ __`seg.`__]
@@ -423,6 +426,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[arXiv](https://arxiv.org/pdf/1909.12663.pdf)] Point Attention Network for Semantic Segmentation of 3D Point Clouds. [__`seg.`__]
 - [[arXiv](https://arxiv.org/pdf/1909.07137v1.pdf)] PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. [__`oth.`__]
 - [[arXiv](https://arxiv.org/abs/1904.08159)] 3D Object Recognition with Ensemble Learning --- A Study of Point Cloud-Based Deep Learning Models. [__`cls.`__ __`det.`__]
+- 
 
 ---
 ## 2020
@@ -505,6 +509,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_End-to-End_Learning_Local_Multi-View_Descriptors_for_3D_Point_Clouds_CVPR_2020_paper.pdf)] End-to-End Learning Local Multi-View Descriptors for 3D Point Clouds. [__`Description`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf)] Convolution in the Cloud: Learning Deformable Kernels in 3D Graph Convolution Networks for Point Cloud Analysis. [__`other`__]
 - [[CVPR](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.pdf)] On Isometry Robustness of Deep 3D Point Cloud Models Under Adversarial Attacks. [__`other`__]
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Pais_3DRegNet_A_Deep_Neural_Network_for_3D_Point_Registration_CVPR_2020_paper.html)] 3DRegNet: A Deep Neural Network for 3D Point Registration. [__`reg.`__]
+- [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/html/Iglesias_Global_Optimality_for_Point_Set_Registration_Using_Semidefinite_Programming_CVPR_2020_paper.html)] Global Optimality for Point Set Registration Using Semidefinite Programming. [__`reg.`__]
 - [[CVPRW](https://arxiv.org/abs/2006.12671)] AFDet: Anchor Free One Stage 3D Object Detection. [__`Detection.`__]
 - 
 - [[ECCV]] EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection. [[code](https://github.com/happinesslz/EPNet)][__`Detection`__]
@@ -551,7 +557,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690630.pdf)] Deep FusionNet for Point Cloud Semantic Segmentation. [[code](https://github.com/feihuzhang/LiDARSeg)][__`Segmentation`__]
 - [[ECCV](https://arxiv.org/abs/2004.01803)] SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation. [[code](https://github.com/chenfengxu714/SqueezeSegV3)][__`seg.`__]
 - [[ECCV](https://arxiv.org/abs/2007.08556)] InfoFocus: 3D Object Detection for Autonomous Driving with Dynamic Information Modeling. [__`Detection`__]
--
+- [[[ECCV](https://link.springer.com/chapter/10.1007/978-3-030-58586-0_23)] Iterative Distance-Aware Similarity Matrix Convolution with  Mutual-Supervised Point Elimination for Efficient Point Cloud  Registration. [__`reg.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07356.pdf)] Scan2Plan: Efficient Floorplan Generation from 3D Scans of Indoor Scenes. [__`oth.`__]
 - [[arXiv](https://arxiv.org/pdf/2003.07717.pdf)] Multimodal Shape Completion via Conditional Generative Adversarial Networks. [__`oth.`__]
 - [[arXiv](https://arxiv.org/ftp/arxiv/papers/2002/2002.12573.pdf)] MANet: Multimodal Attention Network based Point-View fusion for 3D Shape Recognition. [__`cls.`__]
@@ -919,6 +925,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](openaccess.thecvf.com/content/ICCV2021/papers/Zou_Geometry-Aware_Self-Training_for_Unsupervised_Domain_Adaptation_on_Object_Point_Clouds_ICCV_2021_paper.pdf)] Geometry-Aware Self-Training for Unsupervised Domain Adaptation on Object Point Clouds. [[code](https://github.com/zou-longkun/GAST)] [__`Domain Adaptation`__]
 - [[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Progressive_Seed_Generation_Auto-Encoder_for_Unsupervised_Point_Cloud_Learning_ICCV_2021_paper.pdf)] Progressive Seed Generation Auto-Encoder for Unsupervised Point Cloud Learning.[__`Encoder`__]
 - [[ICCV](https://zju3dv.github.io/udolo/)] You Don't Only Look Once: Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking. [[code](https://github.com/zju3dv/UDOLO)] [__`Detection`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/html/Ali_RPSRNet_End-to-End_Trainable_Rigid_Point_Set_Registration_Network_Using_Barnes-Hut_CVPR_2021_paper.html)] RPSRNet: End-to-End Trainable Rigid Point Set Registration Network Using Barnes-Hut 2D-Tree Representation  [__`reg.`__]
+- [[TPAMI](https://doi.org/10.1109/TPAMI.2020.3043769)] Acceleration of Non-Rigid Point Set Registration With Downsampling and Gaussian Process Regression.  [__`reg.`__]
+- [[TPAMI](https://doi.org/10.1109/TPAMI.2020.2978477)] Point Set Registration for 3D Range Scans Using Fuzzy Cluster-Based Metric and Efficient Global Optimization.  [__`reg.`__]
+- [[TPAMI](https://doi.org/10.1109/TPAMI.2019.2940655)] Topology-Aware Non-Rigid Point Cloud Registration.  [__`reg.`__]
+- [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/c85b2ea9a678e74fdc8bafe5d0707c31-Abstract.html)] CoFiNet: Reliable Coarse-to-fine Correspondences for Robust PointCloud Registration.  [__`reg.`__]
+- [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/2b0f658cbffd284984fb11d90254081f-Abstract.html)] Accurate Point Cloud Registration with Robust Optimal Transport.   [__`reg.`__]
 
 ---
 ## 2022
@@ -985,7 +997,20 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR oral](https://arxiv.org/pdf/2205.05740v1.pdf)] Surface Representation for Point Clouds. [[code](https://github.com/hancyran/RepSurf)] [__`Representation`__]
 - [[CVPR](https://arxiv.org/pdf/2205.13490v1.pdf)] SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation. [[code](https://github.com/wangzy22/SemAffiNet)] [__`Segmentation`__]
 - [[CVPR](https://arxiv.org/abs/2205.11028)] RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds. [[code](https://github.com/gxd1994/RCP)] [__`Flow`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_3DJCG_A_Unified_Framework_for_Joint_Dense_Captioning_and_Visual_CVPR_2022_paper.pdf)] 3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds. [__`Grounding`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Multi-Instance_Point_Cloud_Registration_by_Efficient_Correspondence_Clustering_CVPR_2022_paper.pdf)] Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. [[code](https://github.com/SJTU-ViSYS/multi-instant-reg)] [__`Registration`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Lepard_Learning_Partial_Point_Cloud_Matching_in_Rigid_and_Deformable_CVPR_2022_paper.pdf)] Lepard: Learning partial point cloud matching in rigid and deformable scenes. [[code](https://github.com/rabbityl/lepard)] [__`Matching`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Robust_Structured_Declarative_Classifiers_for_3D_Point_Clouds_Defending_Adversarial_CVPR_2022_paper.pdf)] Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks With Implicit Gradients. [[code](https://zhang-vislab.github.io/)] [__`Attack`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Neural_Points_Point_Cloud_Representation_With_Neural_Fields_for_Arbitrary_CVPR_2022_paper.pdf)] Neural Points: Point Cloud Representation With Neural Fields for Arbitrary Upsampling. [[code](https://github.com/WanquanF/NeuralPoints)] [__`Upsampling`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yamada_Point_Cloud_Pre-Training_With_Natural_3D_Structures_CVPR_2022_paper.pdf)] Point Cloud Pre-training with Natural 3D Structures. [[code](https://ryosuke-yamada.github.io/PointCloud-FractalDataBase/)] [__`Pre-training`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_A_Unified_Query-Based_Paradigm_for_Point_Cloud_Understanding_CVPR_2022_paper.pdf)] A Unified Query-based Paradigm for Point Cloud Understanding. [__`Understanding`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Surface_Reconstruction_From_Point_Clouds_by_Learning_Predictive_Context_Priors_CVPR_2022_paper.pdf)] Surface Reconstruction From Point Clouds by Learning Predictive Context Priors. [[code](https://github.com/mabaorui/PredictableContextPrior)] [__`Reconstruction`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_RigidFlow_Self-Supervised_Scene_Flow_Learning_on_Point_Clouds_by_Local_CVPR_2022_paper.pdf)] RigidFlow: Self-Supervised Scene Flow Learning on Point Clouds by Local Rigidity Prior. [__`Flow`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)] Deterministic Point Cloud Registration via Novel Transformation Decomposition. [__`Registration`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Lehner_3D-VField_Adversarial_Augmentation_of_Point_Clouds_for_Domain_Generalization_in_CVPR_2022_paper.pdf)] 3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection. [[code](https://crashd-cars.github.io/)] [__`Detection`__]
 - [[CVPRW](https://openaccess.thecvf.com/content/CVPR2022W/WAD/html/Wang_PointMotionNet_Point-Wise_Motion_Learning_for_Large-Scale_LiDAR_Point_Clouds_Sequences_CVPRW_2022_paper.html)] PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences [__`oth.`__]
+
+
 
 
 ```diff
