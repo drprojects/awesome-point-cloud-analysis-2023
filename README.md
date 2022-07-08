@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 58 papers (49 with code)]
+- [2022](#2022) [CVPR: 58 papers (49 with code); ECCV is coming!]
 
 <h3> Keywords </h3>
 
