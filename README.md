@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 58 papers (49 with code); ECCV is coming!]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV is coming!]
 
 <h3> Keywords </h3>
 
@@ -1009,6 +1009,26 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)] Deterministic Point Cloud Registration via Novel Transformation Decomposition. [__`Registration`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Lehner_3D-VField_Adversarial_Augmentation_of_Point_Clouds_for_Domain_Generalization_in_CVPR_2022_paper.pdf)] 3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection. [[code](https://crashd-cars.github.io/)] [__`Detection`__]
 - [[CVPRW](https://openaccess.thecvf.com/content/CVPR2022W/WAD/html/Wang_PointMotionNet_Point-Wise_Motion_Learning_for_Large-Scale_LiDAR_Point_Clouds_Sequences_CVPRW_2022_paper.html)] PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences [__`oth.`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_An_MIL-Derived_Transformer_for_Weakly_Supervised_Point_Cloud_Segmentation_CVPR_2022_paper.pdf)] An MIL-Derived Transformer for Weakly Supervised Point Cloud Segmentation. [[code](https://github.com/jimmy15923/wspss_mil_transformer)] [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Why_Discard_if_You_Can_Recycle_A_Recycling_Max_Pooling_CVPR_2022_paper.pdf)] Why Discard if You Can Recycle?: A Recycling Max Pooling Module for 3D Point Cloud Analysis. [__`Analysis`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Nie_Pyramid_Architecture_for_Multi-Scale_Processing_in_Point_Cloud_Segmentation_CVPR_2022_paper.pdf)] Pyramid Architecture for Multi-Scale Processing in Point Cloud Segmentation. [[code](https://github.com/ginobilinie/kp_pyramid)] [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Finding_Good_Configurations_of_Planar_Primitives_in_Unorganized_Point_Clouds_CVPR_2022_paper.pdf)] Finding Good Configurations of Planar Primitives in Unorganized Point Clouds. [__`Primitives`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_No-Reference_Point_Cloud_Quality_Assessment_via_Domain_Adaptation_CVPR_2022_paper.pdf)] No-Reference Point Cloud Quality Assessment via Domain Adaptation. [[code](https://github.com/Qi-Yangsjtu/IT-PCQA)] [__`Assessment`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_Local_Displacements_for_Point_Cloud_Completion_CVPR_2022_paper.pdf)] Learning Local Displacements for Point Cloud Completion. [__`Completion`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Xing_Point_Cloud_Color_Constancy_CVPR_2022_paper.pdf)] Point Cloud Color Constancy. [[code](https://github.com/xyxingx/Point-Cloud-Color-Constancy)] [__`Color`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Rotstein_Multimodal_Colored_Point_Cloud_to_Image_Alignment_CVPR_2022_paper.pdf)] Multimodal Colored Point Cloud to Image Alignment. [__`Alignment`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Self-Supervised_Arbitrary-Scale_Point_Clouds_Upsampling_via_Implicit_Neural_Representation_CVPR_2022_paper.pdf)] Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation. [[code](https://github.com/xnowbzhao/sapcu)] [__`Upsampling`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_LiDARCap_Long-Range_Marker-Less_3D_Human_Motion_Capture_With_LiDAR_Point_CVPR_2022_paper.pdf)] LiDARCap: Long-Range Marker-Less 3D Human Motion Capture With LiDAR Point Clouds. [__`Motion`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Shen_Domain_Adaptation_on_Point_Clouds_via_Geometry-Aware_Implicits_CVPR_2022_paper.pdf)] Domain Adaptation on Point Clouds via Geometry-Aware Implicits. [[code](https://github.com/Jhonve/ImplicitPCDA)] [__`Adaptation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Weakly_Supervised_Segmentation_on_Outdoor_4D_Point_Clouds_With_Temporal_CVPR_2022_paper.pdf)] Weakly Supervised Segmentation on Outdoor 4D point clouds with Temporal Matching and Spatial Graph Propagation. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.pdf)] LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints.  [__`Completion`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_SS3D_Sparsely-Supervised_3D_Object_Detection_From_Point_Cloud_CVPR_2022_paper.pdf)] SS3D: Sparsely-Supervised 3D Object Detection from Point Cloud. [__`Detection`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Pang_Upright-Net_Learning_Upright_Orientation_for_3D_Point_Cloud_CVPR_2022_paper.pdf)] Upright-Net: Learning Upright Orientation for 3D Point Cloud. [__`Orientation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Reconstructing_Surfaces_for_Sparse_Point_Clouds_With_On-Surface_Priors_CVPR_2022_paper.pdf)] Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors. [[code](https://github.com/mabaorui/OnSurfacePrior)] [__`Reconstruction`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_HybridCR_Weakly-Supervised_3D_Point_Cloud_Semantic_Segmentation_via_Hybrid_Contrastive_CVPR_2022_paper.pdf)] HybridCR: Weakly-Supervised 3D Point Cloud Semantic Segmentation via Hybrid Contrastive Regularization. [__`Segmentation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Self-Supervised_Global-Local_Structure_Modeling_for_Point_Cloud_Domain_Adaptation_With_CVPR_2022_paper.pdf)] Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation with Reliable Voted Pseudo Labels. [__`Adaptation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.pdf)] Boosting 3D Object Detection by Simulating Multimodality on Point Clouds. [__`Detection`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Shabat_DiGS_Divergence_Guided_Shape_Implicit_Neural_Representation_for_Unoriented_Point_CVPR_2022_paper.pdf)] DiGS: Divergence Guided Shape Implicit Neural Representation for Unoriented Point Clouds. [[code](https://chumbyte.github.io/DiGS-Site/)] [__`Neural Representations`__]
 
 
 
