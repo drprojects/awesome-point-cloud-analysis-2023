@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV is coming!]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 1 paper (1 with code)]
 
 <h3> Keywords </h3>
 
@@ -1030,7 +1030,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.pdf)] Boosting 3D Object Detection by Simulating Multimodality on Point Clouds. [__`Detection`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Shabat_DiGS_Divergence_Guided_Shape_Implicit_Neural_Representation_for_Unoriented_Point_CVPR_2022_paper.pdf)] DiGS: Divergence Guided Shape Implicit Neural Representation for Unoriented Point Clouds. [[code](https://chumbyte.github.io/DiGS-Site/)] [__`Neural Representations`__]
 
-
+- [[ECCV](https://arxiv.org/abs/2207.01452)] Open-world semantic segmentation for Lidar Point Clouds. [[code](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation)] [__`segmentation`__]
 
 
 ```diff
