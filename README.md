@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 1 paper (1 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 3 paper (2 with code)]
 
 <h3> Keywords </h3>
 
@@ -1029,8 +1029,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Self-Supervised_Global-Local_Structure_Modeling_for_Point_Cloud_Domain_Adaptation_With_CVPR_2022_paper.pdf)] Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation with Reliable Voted Pseudo Labels. [__`Adaptation`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.pdf)] Boosting 3D Object Detection by Simulating Multimodality on Point Clouds. [__`Detection`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Shabat_DiGS_Divergence_Guided_Shape_Implicit_Neural_Representation_for_Unoriented_Point_CVPR_2022_paper.pdf)] DiGS: Divergence Guided Shape Implicit Neural Representation for Unoriented Point Clouds. [[code](https://chumbyte.github.io/DiGS-Site/)] [__`Neural Representations`__]
+-
+- [[ECCV](https://arxiv.org/abs/2207.01452)] Open-world semantic segmentation for Lidar Point Clouds. [[code](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation)] [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/abs/2207.04397)] 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds. [[code](https://github.com/yanx27/2DPASS)] [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/abs/2207.05317)] CPO: Change Robust Panorama to Point Cloud Localization. [__`Localization`__]
 
-- [[ECCV](https://arxiv.org/abs/2207.01452)] Open-world semantic segmentation for Lidar Point Clouds. [[code](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation)] [__`segmentation`__]
 
 
 ```diff
