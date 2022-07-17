@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 4 paper (3 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 5 paper (4 with code)]
 
 <h3> Keywords </h3>
 
@@ -1033,7 +1033,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2207.01452)] Open-world semantic segmentation for Lidar Point Clouds. [[code](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation)] [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/abs/2207.04397)] 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds. [[code](https://github.com/yanx27/2DPASS)] [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/abs/2207.05317)] CPO: Change Robust Panorama to Point Cloud Localization. [__`Localization`__]
-- [[ECCV](https://arxiv.org/abs/2206.01203)] Semantic Instance Segmentation of 3D Scenes Through Weak Bounding Box Supervision. [[code](https://virtualhumans.mpi-inf.mpg.de/box2mask/)] [__`Segmentation`__]
+- [[ECCV](http://virtualhumans.mpi-inf.mpg.de/papers/chibane22Box2Mask/Chibane_Box2Mask.pdf)] Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes. [[code](https://virtualhumans.mpi-inf.mpg.de/box2mask/)] [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/abs/2203.16001)] Meta-Sampler: Almost-Universal yet Task-Oriented Sampling for Point Clouds. [[code](https://github.com/ttchengab/MetaSampler)] [__`Sampling`__]
 
 
 ```diff
