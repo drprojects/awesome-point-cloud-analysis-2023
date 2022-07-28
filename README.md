@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 7 paper (6 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 11 papers (10 with code)]
 
 <h3> Keywords </h3>
 
@@ -1037,6 +1037,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2203.16001)] Meta-Sampler: Almost-Universal yet Task-Oriented Sampling for Point Clouds. [[code](https://github.com/ttchengab/MetaSampler)] [__`Sampling`__]
 - [[ECCV](https://arxiv.org/pdf/2207.07522v1.pdf)] Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation. [[code](https://github.com/cwc1260/BiFlow)] [__`Scene Flow`__]
 - [[ECCV](https://arxiv.org/abs/2203.11183)] Masked Discrimination for Self-Supervised Learning on Point Clouds. [[code](https://github.com/haotian-liu/MaskPoint)] [__`Self-Supervised Learning`__]
+- [[ECCV](https://arxiv.org/pdf/2207.11995v1.pdf)] 3D Siamese Transformer Network for Single Object Tracking on Point Clouds. [[code](https://github.com/fpthink/STNet)] [__`Tracking`__]
+- [[ECCV](https://arxiv.org/abs/2207.11889)] Salient Object Detection for Point Clouds. [[code](https://git.openi.org.cn/OpenPointCloud/PCSOD)] [__`Detection`__]
+- [[ECCV](https://arxiv.org/abs/2207.11753)] Label-Guided Auxiliary Training Improves 3D Object Detector. [[code](https://github.com/FabienCode/LG3D)] [__`Detection`__]
+- [[ECCV](https://shengyuh.github.io/eccv22/index.html)] Dynamic 3D Scene Analysis by Point Cloud Accumulation. [[code](https://github.com/prs-eth/PCAccumulation)] [__`Scene`__]
+
+
+
 
 
 
