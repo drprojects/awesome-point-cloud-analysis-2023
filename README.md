@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 12 papers (11 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 13 papers (11 with code)]
 
 <h3> Keywords </h3>
 
@@ -1042,7 +1042,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2207.11753)] Label-Guided Auxiliary Training Improves 3D Object Detector. [[code](https://github.com/FabienCode/LG3D)] [__`Detection`__]
 - [[ECCV](https://shengyuh.github.io/eccv22/index.html)] Dynamic 3D Scene Analysis by Point Cloud Accumulation. [[code](https://github.com/prs-eth/PCAccumulation)] [__`Scene`__]
 - [[ECCV](https://michaelramamonjisoa.github.io/projects/MonteBoxFinder)] MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud. [[code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder)] [__`Fit`__]
-
+- [[ECCV](https://arxiv.org/pdf/2208.00281v1.pdf)] Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding. [__`Video Understanding`__]
 
 
 
