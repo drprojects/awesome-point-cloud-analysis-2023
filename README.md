@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 13 papers (11 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 17 papers (14 with code)]
 
 <h3> Keywords </h3>
 
@@ -1043,8 +1043,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://shengyuh.github.io/eccv22/index.html)] Dynamic 3D Scene Analysis by Point Cloud Accumulation. [[code](https://github.com/prs-eth/PCAccumulation)] [__`Scene`__]
 - [[ECCV](https://michaelramamonjisoa.github.io/projects/MonteBoxFinder)] MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud. [[code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder)] [__`Fit`__]
 - [[ECCV](https://arxiv.org/pdf/2208.00281v1.pdf)] Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding. [__`Video Understanding`__]
-
-
+- [[ECCV](https://arxiv.org/abs/2208.01925)] SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud. [[code](https://github.com/zxrzju/SuperLine3D.git)] [__`Segmentation`__]
+- [[ECCV](https://arxiv.org/abs/2208.04043)] SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty. [__`De-snowing`__]
+- [[ECCV](https://arxiv.org/abs/2208.03624)] Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph. [[code](https://github.com/Nightmare-n/GraphRCNN)] [__`Detection`__]
+- [[ECCV](https://arxiv.org/abs/2208.05962)] PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees. [[code](https://github.com/immortalCO/PointTree)] [__`Encoder`__]
 
 
 ```diff
