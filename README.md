@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 17 papers (14 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 18 papers (15 with code)]
 
 <h3> Keywords </h3>
 
@@ -1047,6 +1047,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2208.04043)] SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty. [__`De-snowing`__]
 - [[ECCV](https://arxiv.org/abs/2208.03624)] Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph. [[code](https://github.com/Nightmare-n/GraphRCNN)] [__`Detection`__]
 - [[ECCV](https://arxiv.org/abs/2208.05962)] PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees. [[code](https://github.com/immortalCO/PointTree)] [__`Encoder`__]
+- [[ECCV](https://www.zyrianov.org/lidargen/)] Learning to Generate Realistic LiDAR Point Clouds. [[code](https://www.zyrianov.org/lidargen/)] [__`LiDAR`__]
+
+
 
 
 ```diff
