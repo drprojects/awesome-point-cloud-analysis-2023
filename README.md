@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 18 papers (15 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 23 papers (19 with code)]
 
 <h3> Keywords </h3>
 
@@ -1048,7 +1048,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/abs/2208.03624)] Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph. [[code](https://github.com/Nightmare-n/GraphRCNN)] [__`Detection`__]
 - [[ECCV](https://arxiv.org/abs/2208.05962)] PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees. [[code](https://github.com/immortalCO/PointTree)] [__`Encoder`__]
 - [[ECCV](https://www.zyrianov.org/lidargen/)] Learning to Generate Realistic LiDAR Point Clouds. [[code](https://www.zyrianov.org/lidargen/)] [__`LiDAR`__]
-
+- [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_39)] FBNet: Feedback Network for Point Cloud Completion. [[code](https://github.com/hikvision-research/3DVision/tree/main/PointCompletion/FBNet)] [__`Completion`__]
+- [[ECCV](https://arxiv.org/pdf/2203.16482.pdf)] RFNet-4D: Joint Object Reconstruction and Flow Estimation from 4D Point Clouds. [[code](https://github.com/hkust-vgd/RFNet-4D?utm_source=catalyzex.com)] [__`Flow`__]
+- [[ECCV](https://arxiv.org/pdf/2210.08064.pdf)] LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds. [__`Segmentation`__]
+- [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_13)] FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-World Point Clouds. [[code](https://github.com/pigtigger/FH-Net)] [__`Flow`__]
+- [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_2)] Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [[code](https://github.com/Dangzheng/MatchNorm)] [__`Registration`__]
 
 
 
