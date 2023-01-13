@@ -18,7 +18,7 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 23 papers (19 with code)]
+- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
 
 <h3> Keywords </h3>
 
@@ -1053,6 +1053,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://arxiv.org/pdf/2210.08064.pdf)] LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds. [__`Segmentation`__]
 - [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_13)] FH-Net: A Fast Hierarchical Network for Scene Flow Estimation on Real-World Point Clouds. [[code](https://github.com/pigtigger/FH-Net)] [__`Flow`__]
 - [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-19769-7_2)] Learning-Based Point Cloud Registration for 6D Object Pose Estimation in the Real World. [[code](https://github.com/Dangzheng/MatchNorm)] [__`Registration`__]
+- [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620485.pdf)] CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement. [[code](https://github.com/THU-DA-6D-Pose-Group/CATRE)] [__`Registration`__]
+- [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620504.pdf)] Optimization over Disentangled Encoding: Unsupervised Cross-Domain Point Cloud Completion via Occlusion Factor Manipulation. [[code](https://github.com/azuki-miho/OptDE)] [__`Completion`__]
+- [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31)] Unsupervised Learning of 3D Semantic Keypoints with Mutual Reconstruction. [[code](https://github.com/YYYYYHC/Learning-3D-Keypoints-with-Mutual-Recosntruction)] [__`Reconstruction`__]
+- [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620573.pdf)] Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach.  [__`Simplification`__]
+- [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610123.pdf)] Lidar Point Cloud Guided Monocular 3D Object Detection. [[code](https://github.com/SPengLiang/LPCG)] [__`Detection`__]
+
+
 
 
 
