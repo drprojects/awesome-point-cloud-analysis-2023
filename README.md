@@ -19,7 +19,7 @@ I will try to update this list everyday!!!
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
 - [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 1 papers (1 with code)]
+- [2023](#2023) [CVPR: 2 papers (2 with code)]
 
 <h3> Keywords </h3>
 
@@ -1063,7 +1063,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ---
 ## 2023
 - [[CVPR](https://lukemelas.github.io/projection-conditioned-point-cloud-diffusion)] PC2: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction. [[code](https://github.com/lukemelas/projection-conditioned-point-cloud-diffusion)] [__`Reconstruction`__]
-
+- [[CVPR](https://arxiv.org/abs/2304.11846)] Grad-PU: Arbitrary-Scale Point Cloud Upsampling via Gradient Descent with Learned Distance Functions. [[code](https://github.com/yunhe20/Grad-PU)] [__`Upsampling`__]
 
 
 ```diff
