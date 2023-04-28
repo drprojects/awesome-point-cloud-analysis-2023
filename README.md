@@ -19,7 +19,7 @@ I will try to update this list everyday!!!
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
 - [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 2 papers (2 with code)]
+- [2023](#2023) [CVPR: 8 papers (8 with code)]
 
 <h3> Keywords </h3>
 
@@ -1064,6 +1064,12 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 ## 2023
 - [[CVPR](https://lukemelas.github.io/projection-conditioned-point-cloud-diffusion)] PC2: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction. [[code](https://github.com/lukemelas/projection-conditioned-point-cloud-diffusion)] [__`Reconstruction`__]
 - [[CVPR](https://arxiv.org/abs/2304.11846)] Grad-PU: Arbitrary-Scale Point Cloud Upsampling via Gradient Descent with Learned Distance Functions. [[code](https://github.com/yunhe20/Grad-PU)] [__`Upsampling`__]
+- [[CVPR](https://arxiv.org/abs/2304.09446)] Density-Insensitive Unsupervised Domain Adaption on 3D Object Detection. [[code](https://github.com/WoodwindHu/DTS)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2304.04248)] Curricular Object Manipulation in LiDAR-based Object Detection. [[code](https://github.com/ZZY816/COM)] [__`Detection`__]
+- [[CVPR](https://arxiv.org/abs/2303.09950)] Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration. [[code](https://github.com/qinzheng93/GraphSCNet)] [__`Registration`__]
+- [[CVPR](https://arxiv.org/abs/2303.09950)] BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [[code](https://github.com/qinzheng93/GraphSCNet)] [__`Registration`__]
+- [[CVPR](https://arxiv.org/abs/2212.06785)] Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders. [[code](https://github.com/ZrrSkywalker/I2P-MAE)] [__`Representations`__]
+- [[CVPR](https://arxiv.org/pdf/2303.08134.pdf)] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis. [[code](https://github.com/ZrrSkywalker/Point-NN)] [__`Representations`__]
 
 
 ```diff
