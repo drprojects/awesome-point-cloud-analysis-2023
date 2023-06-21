@@ -19,7 +19,7 @@ I will try to update this list everyday!!!
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
 - [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 8 papers (8 with code)]
+- [2023](#2023) [CVPR: 9 papers (9 with code)]
 
 <h3> Keywords </h3>
 
@@ -1070,7 +1070,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2303.09950)] BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [[code](https://github.com/qinzheng93/GraphSCNet)] [__`Registration`__]
 - [[CVPR](https://arxiv.org/abs/2212.06785)] Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders. [[code](https://github.com/ZrrSkywalker/I2P-MAE)] [__`Representations`__]
 - [[CVPR](https://arxiv.org/pdf/2303.08134.pdf)] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis. [[code](https://github.com/ZrrSkywalker/Point-NN)] [__`Representations`__]
-- [[CVPR]()] Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving. [[code](https://github.com/thu-ml/3D_Corruptions_AD)] [__`Benchmark`__]
+- [[CVPR](https://github.com/thu-ml/3D_Corruptions_AD)] Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving. [[code](https://github.com/thu-ml/3D_Corruptions_AD)] [__`Benchmark`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_AShapeFormer_Semantics-Guided_Object-Level_Active_Shape_Encoding_for_3D_Object_Detection_CVPR_2023_paper.pdf)] AShapeFormer: Semantics-Guided Object-Level Active Shape Encoding for 3D Object Detection via Transformers. [[code](https://github.com/ZechuanLi/AShapeFormer)] [__`Detection`__]
+
 
 ```diff
 - Datasets
