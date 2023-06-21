@@ -1070,7 +1070,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/abs/2303.09950)] BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. [[code](https://github.com/qinzheng93/GraphSCNet)] [__`Registration`__]
 - [[CVPR](https://arxiv.org/abs/2212.06785)] Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders. [[code](https://github.com/ZrrSkywalker/I2P-MAE)] [__`Representations`__]
 - [[CVPR](https://arxiv.org/pdf/2303.08134.pdf)] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis. [[code](https://github.com/ZrrSkywalker/Point-NN)] [__`Representations`__]
-
+- [[CVPR]()] Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving. [[code](https://github.com/thu-ml/3D_Corruptions_AD)] [__`Benchmark`__]
 
 ```diff
 - Datasets
