@@ -19,7 +19,7 @@ I will try to update this list everyday!!!
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
 - [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 9 papers (9 with code)]
+- [2023](#2023) [CVPR: 16 papers (13 with code)]
 
 <h3> Keywords </h3>
 
@@ -1072,6 +1072,13 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://arxiv.org/pdf/2303.08134.pdf)] Parameter is Not All You Need: Starting from Non-Parametric Networks for 3D Point Cloud Analysis. [[code](https://github.com/ZrrSkywalker/Point-NN)] [__`Representations`__]
 - [[CVPR](https://github.com/thu-ml/3D_Corruptions_AD)] Benchmarking Robustness of 3D Object Detection to Common Corruptions in Autonomous Driving. [[code](https://github.com/thu-ml/3D_Corruptions_AD)] [__`Benchmark`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_AShapeFormer_Semantics-Guided_Object-Level_Active_Shape_Encoding_for_3D_Object_Detection_CVPR_2023_paper.pdf)] AShapeFormer: Semantics-Guided Object-Level Active Shape Encoding for 3D Object Detection via Transformers. [[code](https://github.com/ZechuanLi/AShapeFormer)] [__`Detection`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_Information_CVPR_2023_paper.html)] CXTrack: Improving 3D Point Cloud Tracking With Contextual Information. [__`Tracking`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_NeuralPCI_Spatio-Temporal_Neural_Field_for_3D_Point_Cloud_Multi-Frame_Non-Linear_CVPR_2023_paper.html)] NeuralPCI: Spatio-Temporal Neural Field for 3D Point Cloud Multi-Frame Non-Linear Interpolation. [[code](https://github.com/ispc-lab/NeuralPCI)] [__`Interpolation`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Spatiotemporal_Self-Supervised_Learning_for_Point_Clouds_in_the_Wild_CVPR_2023_paper.html)] Spatiotemporal Self-Supervised Learning for Point Clouds in the Wild. [[code](https://github.com/YanhaoWu/STSSL)] [__`Understanding`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Frequency-Modulated_Point_Cloud_Rendering_With_Easy_Editing_CVPR_2023_paper.html)] Frequency-Modulated Point Cloud Rendering With Easy Editing. [[code](https://github.com/yizhangphd/FreqPCR)] [__`Nerf`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Deng_SE-ORNet_Self-Ensembling_Orientation-Aware_Network_for_Unsupervised_Point_Cloud_Shape_Correspondence_CVPR_2023_paper.html)] SE-ORNet: Self-Ensembling Orientation-Aware Network for Unsupervised Point Cloud Shape Correspondence. [__`Correspondence`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Hyperspherical_Embedding_for_Point_Cloud_Completion_CVPR_2023_paper.html)] Hyperspherical Embedding for Point Cloud Completion. [__`Completion`__]
+- [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/He_MSF_Motion-Guided_Sequential_Fusion_for_Efficient_3D_Object_Detection_From_CVPR_2023_paper.html)] MSF: Motion-Guided Sequential Fusion for Efficient 3D Object Detection From Point Cloud Sequences. [[code](https://github.com/skyhehe123/MSF)] [__`Detection`__]
 
 
 ```diff
