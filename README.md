@@ -1079,8 +1079,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Deng_SE-ORNet_Self-Ensembling_Orientation-Aware_Network_for_Unsupervised_Point_Cloud_Shape_Correspondence_CVPR_2023_paper.html)] SE-ORNet: Self-Ensembling Orientation-Aware Network for Unsupervised Point Cloud Shape Correspondence. [__`Correspondence`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Hyperspherical_Embedding_for_Point_Cloud_Completion_CVPR_2023_paper.html)] Hyperspherical Embedding for Point Cloud Completion. [__`Completion`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2023/html/He_MSF_Motion-Guided_Sequential_Fusion_for_Efficient_3D_Object_Detection_From_CVPR_2023_paper.html)] MSF: Motion-Guided Sequential Fusion for Efficient 3D Object Detection From Point Cloud Sequences. [[code](https://github.com/skyhehe123/MSF)] [__`Detection`__]
-
-
+- 
 - [[ICCV](https://arxiv.org/pdf/2308.07546v1.pdf)] 3DHacker: Spectrum-based Decision Boundary Generation for Hard-label 3D Point Cloud Attack. [__`Attack`__]
 - [[ICCV](https://arxiv.org/pdf/2308.06635v1.pdf)] 3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking. [[code](https://github.com/dsx0511/3DMOTFormer)] [__`Tracking`__]
 - [[ICCV](https://arxiv.org/pdf/2308.06383v1.pdf)] U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds. [[code](https://github.com/ZhangCYG/U-RED)] [__`Retrieval`__]
