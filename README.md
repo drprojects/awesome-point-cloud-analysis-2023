@@ -19,7 +19,7 @@ I will try to update this list everyday!!!
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
 - [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 16 papers (13 with code); ICCV: 5 papers (4 with code)]
+- [2023](#2023) [CVPR: 16 papers (13 with code); ICCV: 6 papers (5 with code)]
 
 <h3> Keywords </h3>
 
@@ -1086,6 +1086,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ICCV](https://arxiv.org/pdf/2308.05667v1.pdf)] 2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds. [[code](https://github.com/minhaolee/2D3DMATR)] [__`Registration`__]
 - [[ICCV](https://arxiv.org/pdf/2308.05438v1.pdf)] Deep Fusion Transformer Network with Weighted Vector-Wise
 Keypoints Voting for Robust 6D Object Pose Estimation. [[code](https://github.com/junzastar/DFTr_Voting)] [__`Pose`__]
+- [[ICCV](https://arxiv.org/abs/2211.14710)] 3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers. [[code](https://github.com/drilistbox/3DPPE)] [__`Detection`__]
 
 ```diff
 - Datasets
