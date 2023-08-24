@@ -19,7 +19,7 @@ I will try to update this list everyday!!!
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
 - [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 16 papers (13 with code); ICCV: 8 papers (7 with code)]
+- [2023](#2023) [CVPR: 16 papers (13 with code); ICCV: 9 papers (8 with code)]
 
 <h3> Keywords </h3>
 
@@ -1089,7 +1089,7 @@ Keypoints Voting for Robust 6D Object Pose Estimation. [[code](https://github.co
 - [[ICCV](https://arxiv.org/abs/2211.14710)] 3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers. [[code](https://github.com/drilistbox/3DPPE)] [__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2308.08140)] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds. [[code](https://github.com/Liz66666/GPA3D)] [__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2307.14726)] P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds. [[code](https://github.com/CuiRuikai/Partial2Complete)] [__`Completion`__]
-
+- [[ICCV](https://arxiv.org/abs/2308.05410)] SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data. [[code](https://github.com/IIT-PAVIS/SC3K)] [__`Keypoints`__]
 
 ```diff
 - Datasets
