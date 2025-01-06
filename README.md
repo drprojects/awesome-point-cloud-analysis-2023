@@ -18,8 +18,8 @@ I will try to update this list everyday!!!
 - [2019](#2019)
 - [2020](#2020) [CVPR: 72 papers; ECCV: 40 papers]
 - [2021](#2021) [CVPR: 66 papers; ICCV: 76 papers]
-- [2022](#2022) [CVPR: 78 papers (57 with code); ECCV: 28 papers (23 with code)]
-- [2023](#2023) [CVPR: 16 papers (13 with code); ICCV: 9 papers (8 with code)]
+- [2022](#2022) [CVPR: 79 papers (58 with code); ECCV: 28 papers (23 with code)]
+- [2023](#2023) [CVPR: 16 papers (13 with code); ICCV: 10 papers (9 with code)]
 
 <h3> Keywords </h3>
 
@@ -1030,6 +1030,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Self-Supervised_Global-Local_Structure_Modeling_for_Point_Cloud_Domain_Adaptation_With_CVPR_2022_paper.pdf)] Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation with Reliable Voted Pseudo Labels. [__`Adaptation`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Boosting_3D_Object_Detection_by_Simulating_Multimodality_on_Point_Clouds_CVPR_2022_paper.pdf)] Boosting 3D Object Detection by Simulating Multimodality on Point Clouds. [__`Detection`__]
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Ben-Shabat_DiGS_Divergence_Guided_Shape_Implicit_Neural_Representation_for_Unoriented_Point_CVPR_2022_paper.pdf)] DiGS: Divergence Guided Shape Implicit Neural Representation for Unoriented Point Clouds. [[code](https://chumbyte.github.io/DiGS-Site/)] [__`Neural Representations`__]
+- [[CVPR](https://arxiv.org/abs/2204.07548)] Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation. [[code](https://github.com/drprojects/deepviewagg)] [__`seg.`__] 🔥⭐
 -
 - [[ECCV](https://arxiv.org/abs/2207.01452)] Open-world semantic segmentation for Lidar Point Clouds. [[code](https://github.com/Jun-CEN/Open_world_3D_semantic_segmentation)] [__`Segmentation`__]
 - [[ECCV](https://arxiv.org/abs/2207.04397)] 2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds. [[code](https://github.com/yanx27/2DPASS)] [__`Segmentation`__]
@@ -1090,6 +1091,7 @@ Keypoints Voting for Robust 6D Object Pose Estimation. [[code](https://github.co
 - [[ICCV](https://arxiv.org/abs/2308.08140)] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds. [[code](https://github.com/Liz66666/GPA3D)] [__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2307.14726)] P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds. [[code](https://github.com/CuiRuikai/Partial2Complete)] [__`Completion`__]
 - [[ICCV](https://arxiv.org/abs/2308.05410)] SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data. [[code](https://github.com/IIT-PAVIS/SC3K)] [__`Keypoints`__]
+- [[ICCV](https://arxiv.org/abs/2306.08045)] Efficient 3D Semantic Segmentation with Superpoint Transformer. [[code](https://github.com/drprojects/superpoint_transformer)] [__`seg.`__] 🔥⭐
 
 ```diff
 - Datasets
